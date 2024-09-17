@@ -18,9 +18,9 @@ Suporte para uso do git hub.
 **git log"** : Esse comando irá gerar um histrico de alterações feitas no repositório, gerando até mesmo numeros de commit, que se usadas no git reset pode ser possivel reverter alterações.
 **git reset"** : Esse comando irá "voltar" o repositório para a commit especificada.
 
-**git congif --global user.name "Nome(referencia do nome da pessoa)"** : Esse comando irá "indentificar" o user que está "alterando".
+**git config --global user.name "Nome(referencia do nome da pessoa)"** : Esse comando irá "indentificar" o user que está "alterando".
 
-**git congif --global user.emai "email"** : Esse comando irá "indentificar" o email que está "alterando".
+**git config --global user.emai "email"** : Esse comando irá "indentificar" o email que está "alterando".
 
 **cmdkey /delete:LegacyGeneric:target=git:https://github.com** : Esse comando irá retirar o usuario autenticado.
 
